@@ -25,6 +25,7 @@
     'data': [
         "data/library_data.xml",
         "data/views.xml",
+        "views/gg.xml",
     ],
     # only loaded in demonstration mode
     'demo': [],
