@@ -1,4 +1,4 @@
-<odoo>
+<odoo
     <record model="ir.ui.view" id="task_view_tree">
         <field name="name">Task Template List</field>
         <field name="model">coopplanning.task</field>
